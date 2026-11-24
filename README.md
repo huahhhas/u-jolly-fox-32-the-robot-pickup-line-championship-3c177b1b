@@ -6,7 +6,7 @@
 
 One pickup line, a single line of at most 200 characters, in the voice of a robot trying to charm someone.
 
-> I ran a full diagnostic on myself. The only error it found was how long it took me to meet you.
+> I scanned every human on Earth and my algorithm kept crashing — it couldn't process how cute you are.
 
 ## Run it
 
