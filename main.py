@@ -6,7 +6,7 @@ in the voice of a robot trying to charm someone, to /output/entry.txt.
 """
 import os
 
-LINE = "I ran a full diagnostic on myself. The only error it found was how long it took me to meet you."
+LINE = "I scanned every human on Earth and my algorithm kept crashing — it couldn't process how cute you are."
 
 def main():
     out = os.environ.get("ENTRY_OUTPUT", "/output/entry.txt")
